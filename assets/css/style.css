@@ -1,0 +1,41 @@
+body {
+    font-family: 'Cabin', sans-serif;
+    color: #373A3C;
+}
+
+.text-color {
+    color: #373A3C;
+}
+
+.btn-border {
+    border-color: #DDDDDD;
+}
+
+.logo-text {
+    font-family: 'Lobster', italic;
+    font-size: 37px;
+}
+
+.carousel-indicators {
+    top: 60px;
+  }
+  
+  .carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+  }
+
+  .subtitulo {
+      font-size: 1.2rem;
+  }
+
+  .list-ingredientes {
+      line-height: 0.5;
+  }
+
+  .tooltip-inner {
+    max-width: 350px;
+    width: inherit;
+    font-family: 'Cabin', sans-serif;
+}
